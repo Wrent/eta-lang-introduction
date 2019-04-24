@@ -1,0 +1,26 @@
+targets: JavaComp
+constraints: 
+  any.base installed (non-upgradeable package)
+  any.ghc-prim installed (non-upgradeable package)
+  any.integer installed (non-upgradeable package)
+  any.rts installed (non-upgradeable package)
+  any.eta-meta installed (non-upgradeable package)
+  any.template-haskell installed (non-upgradeable package)
+  setup.etlas-cabal >=1.20 (minimum version of etlas-cabal used by Setup.hs)
+  JavaComp ==0.1.0.0 (user target)
+strategy: PreferLatestForSelected
+reorder goals: False
+count conflicts: True
+independent goals: False
+avoid reinstalls: False
+shadow packages: False
+strong flags: False
+allow boot library installs: False
+max backjumps: 2000
+[__0] trying: JavaComp-0.1.0.0 (user goal)
+[__1] trying: base-4.11.1.0/installed-9g5... (dependency of JavaComp-0.1.0.0)
+[__2] trying: integer-0.5.1.0/installed-ACy... (dependency of base-4.11.1.0/installed-9g5...)
+[__3] trying: ghc-prim-0.4.0.0/installed-Jhi... (dependency of base-4.11.1.0/installed-9g5...)
+[__4] next goal: rts (dependency of base-4.11.1.0/installed-9g5...)
+[__4] trying: rts-0.1.0.0/installed-5Dj...
+[__5] done

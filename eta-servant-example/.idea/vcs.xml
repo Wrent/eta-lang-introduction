@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14677/lens-4.17" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14677/optparse-applicative-0.14.2.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14677/transformers-0.5.5.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14678/aeson-1.4.0.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14679/foundation-0.0.19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14680/generic-deriving-1.11.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14681/primitive-0.6.4.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14682/zlib-0.6.1.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14685/contravariant-1.4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/tmp/src-14686/text-1.2.3.0" vcs="Git" />
+  </component>
+</project>

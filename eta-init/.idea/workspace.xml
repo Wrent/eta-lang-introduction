@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ae213ee-c53c-4c54-b82a-d392a704545a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dk/cngroup/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dk/cngroup/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/eta/Main.hs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/eta/Main.hs" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="eta-init" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="eta-init" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="eta-init" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="eta-init" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="eta-init" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="distribution" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/eta/Main.hs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="732">
+                  <caret line="29" column="15" selection-start-line="29" selection-end-line="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/eta/Primes.hs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="125">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/dk/cngroup/Utils.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="100">
+                  <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/build.gradle">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="175">
+                  <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/dk/cngroup/Counter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="250">
+                  <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="17" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/dk/cngroup/Counter.java" />
+        <option value="$PROJECT_DIR$/src/main/eta/Main.hs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eta-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eta-init" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="eta-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eta-init" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eta-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eta-init" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eta-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eta-init" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eta-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eta-init" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="eta-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eta-init" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="eta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eta-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eta-init" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eta-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eta-init" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eta-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eta-init" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dk" type="462c0819:PsiDirectoryNode" />
+              <item name="cngroup" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.eta-init [run]">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eta-init [assembleDist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleDist" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="eta-init [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="eta-init [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.eta-init [assembleDist]" />
+        <item itemvalue="Gradle.eta-init [jar]" />
+        <item itemvalue="Gradle.eta-init [run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ae213ee-c53c-4c54-b82a-d392a704545a" name="Default Changelist" comment="" />
+      <created>1554475449306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554475449306</updated>
+      <workItem from="1554475452889" duration="118000" />
+      <workItem from="1554475591254" duration="1375000" />
+      <workItem from="1554658471106" duration="1009000" />
+      <workItem from="1554805269693" duration="927000" />
+      <workItem from="1554807851762" duration="2603000" />
+      <workItem from="1554876054951" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6062000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3024494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32920355" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2938053" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="Elm Compiler" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32960597" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Elm" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/eta/Main.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="29" column="15" selection-start-line="29" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/eta/Primes.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/cngroup/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/cngroup/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

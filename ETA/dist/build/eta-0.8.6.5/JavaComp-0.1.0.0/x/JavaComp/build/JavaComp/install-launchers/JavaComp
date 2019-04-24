@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+SCRIPT="${BASH_SOURCE[0]}"
+getScriptDir() {
+  if [[ $(uname -s) == Darwin ]]
+  then
+    local OLD_DIR=`pwd`
+    SCRIPT_BASE="$SCRIPT"
+    cd `dirname $SCRIPT_BASE`
+    SCRIPT_BASE=`basename $SCRIPT_BASE`
+    while [ -L "$SCRIPT_BASE" ]
+    do
+        SCRIPT_BASE=`readlink $SCRIPT_BASE`
+        cd `dirname $SCRIPT_BASE`
+        SCRIPT_BASE=`basename $SCRIPT_BASE`
+    done
+    local SCRIPT_DIR=`pwd -P`
+    SCRIPT="$SCRIPT_DIR/$SCRIPT_BASE"
+    cd "$OLD_DIR"
+  else
+    SCRIPT="$(readlink -f "$SCRIPT")"
+  fi
+  DIR="$(cd "$(dirname "$SCRIPT")" && pwd)"
+}
+getScriptDir
+if [ -z "$ETA_JAVA_CMD" ]; then
+    if [ -n "$JAVA_HOME" ] ; then
+        if [ -x "$JAVA_HOME/jre/sh/java" ] ; then
+            ETA_JAVA_CMD="$JAVA_HOME/jre/sh/java"
+        else
+            ETA_JAVA_CMD="$JAVA_HOME/bin/java"
+        fi
+    else
+        ETA_JAVA_CMD="java"
+    fi
+fi
+$ETA_JAVA_CMD $JAVA_ARGS $JAVA_OPTS $ETA_JAVA_ARGS -classpath "$DIR/JavaComp.jar:/Users/kucera/.etlas/lib/eta-0.8.6.5/base-4.11.1.0-9g5RhDO8RwrLhMSXPi8Eih/base-4.11.1.0-9g5RhDO8RwrLhMSXPi8Eih.jar:/Users/kucera/.etlas/lib/eta-0.8.6.5/ghc-prim-0.4.0.0-Jhi6UgHuZdoBZWUpVo3WKE/ghc-prim-0.4.0.0-Jhi6UgHuZdoBZWUpVo3WKE.jar:/Users/kucera/.etlas/lib/eta-0.8.6.5/integer-0.5.1.0-ACyqTmAMUMGGvisLFeQbAm/integer-0.5.1.0-ACyqTmAMUMGGvisLFeQbAm.jar:/Users/kucera/.etlas/lib/eta-0.8.6.5/rts-0.1.0.0-5Dj4qf1Wx9cCeYbpni5T1w/rts-0.1.0.0-5Dj4qf1Wx9cCeYbpni5T1w.jar:$ETA_CLASSPATH" eta.main "$@"
